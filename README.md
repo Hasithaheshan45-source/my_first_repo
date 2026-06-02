@@ -1,9 +1,6 @@
-# my_first_repo
+## What I learn Todat
 
-# My first repository
-A beginner Github project
-created during the workshop.
+I am currently attending a Github workshop.
+Today I learned about: - Version control - creating a repository - The edit-commit-push cycle
 
-## About me
-my name is **Hasitha**.
-I am learning Github.
+My Github profile:https://github.com/Hasithaheshan45-source/my_first_repo#
